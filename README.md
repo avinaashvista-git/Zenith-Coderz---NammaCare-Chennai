@@ -28,11 +28,11 @@ NammaCare Chennai is a healthcare navigation web application developed for the C
 - Nominatim
 - Waze
 
-🎯 Our Goal
+Our Goal
 
 Our goal is to make healthcare navigation simpler, more accessible, and convenient for people in Chennai by helping them locate healthcare facilities and plan their visits.
 
-👨‍💻 Developed For
+Developed For
 
 CodeNex Hackathon – The Other Side
 
